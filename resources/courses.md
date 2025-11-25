@@ -1,5 +1,5 @@
 Cisco Junior Cybersecurity Analyst
-[Learn more](https://www.cisco.com/site/us/en/learn/training-certifications/training/courses/cbrops.html) |
+[Learn more]([https://www.cisco.com/site/us/en/learn/training-certifications/training/courses/cbrops.html](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US)
 
 ISC2 Cybersecurity Foundations (CC)
 [Learn more](https://www.isc2.org/Certifications/CC) 
